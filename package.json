@@ -1,0 +1,9 @@
+{
+    "name": "@sethc2/vclass",
+    "version": "2.0.0",
+    "main": "bin/index.js",
+    "repository": "https://github.com/Vistril/vclass",
+    "bin": {
+        "vclass": "./bin/index.js"
+    }
+}
