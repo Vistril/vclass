@@ -1,4 +1,4 @@
-class Test {
+class Main {
     constructor() { }
 
     main() {
@@ -6,4 +6,4 @@ class Test {
     }
 }
 
-module.exports = Test;
+module.exports = Main;
