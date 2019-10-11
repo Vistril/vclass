@@ -9,7 +9,7 @@
         throw new Error("Not enough args.")
     }
     
-    const interface = require('./' + cls + '.js');
+    const interface = require(process.cwd() + '/' + cls + '.js');
     const runner = new interface();
     
     if (runner.main == undefined) {
