@@ -1,7 +1,9 @@
 # vclass
 
-usage: 
-make a js file with a class 
+usage:
+
+make a js file with a class
+
 must have a main() function
 ```js
 class Main {
