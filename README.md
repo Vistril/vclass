@@ -1,5 +1,7 @@
 # vclass
 
+this shit old lol don't use
+
 usage:
 
 make a js file with a class
